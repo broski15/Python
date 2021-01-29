@@ -4,7 +4,7 @@ roh = "Hello Rohan!"
 print(roh)
 
 # passing variable in print statement
-
+# String concatination
 a = "Hello"
 b = "Python"
 print(a + " " + b)
@@ -23,3 +23,8 @@ x, y, z = places
 print(x)
 print(y)
 print(z)
+
+# Boolean Values
+print(10 > 9) # True
+print(10 == 9) # False
+print(10 < 9) # False
