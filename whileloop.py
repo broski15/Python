@@ -3,10 +3,10 @@
 # And when the condition becomes false, the line immediately after the loop in the program is executed.
 count = 0
 while (count < 9):
-   print 'The count is:', count
+   print ("The count is:", count)
    count = count + 1
 
-print "Good bye!"
+print ("Good bye!")
 
 # break statement
 i = 1
