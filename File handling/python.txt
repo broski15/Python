@@ -1,0 +1,2 @@
+Python is awesomeI love Python
+Python is my first programming language.

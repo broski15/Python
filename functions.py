@@ -80,3 +80,11 @@ def greet_you(name, message):
 greet_you("Jack", "What's going on?")
 
 greet_you(message = "Howdy?", name = "Jill")
+
+# Lambda function or anonymous function.
+# A lambda function is a small anonymous function.
+# A lambda function can take any number of arguments, but can only have one expression.
+
+double = lambda x: x * 2
+
+print(double(5))
