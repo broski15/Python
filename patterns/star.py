@@ -29,3 +29,6 @@ for a in range(4):
         print("* ",end="")
  
     print()
+
+
+print( (3**2)//2 )
